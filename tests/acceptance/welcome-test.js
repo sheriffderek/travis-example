@@ -15,6 +15,6 @@ module('Acceptance | welcome', function(hooks) {
     await visit('/welcome');
 
     const message = this.element.querySelector('.page-title').textContent.trim();
-    assert.equal(message, `Not welcome!`);
+    assert.equal(message, `Welcome!`);
   });
 });
