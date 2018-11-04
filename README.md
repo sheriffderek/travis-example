@@ -1,5 +1,7 @@
 # travis-example
 
+[![Build Status](https://travis-ci.com/sheriffderek/travis-example.svg?branch=master)](https://travis-ci.com/sheriffderek/travis-example)
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
